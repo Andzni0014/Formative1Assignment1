@@ -30,6 +30,9 @@ class MainActivity : AppCompatActivity() {
                 .trim()
                 .lowercase()
 
+
+            //I've implimented the logic that was provided but with a slight change
+
             Log.d( "SocialSpark", "User Input: $time" )
 
 
@@ -67,6 +70,8 @@ class MainActivity : AppCompatActivity() {
                 Log.d("SocialSpark", "Displaying suggestions : ${txtOutput.text}")
 
             }
+
+            // Using Log.d to debug my code
 
 
             txtOutput.setTextColor(getColor(R.color.black))
