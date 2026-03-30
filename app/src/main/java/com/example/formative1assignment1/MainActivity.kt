@@ -55,7 +55,7 @@ class MainActivity : AppCompatActivity() {
                 txtOutput.setText("Call a loved one for 5-min to catch up ")
 
             }else if (time.contains("dinner")){
-                Log.d( "APP_DEBUG", "Dinneer executed")
+                Log.d( "APP_DEBUG", "Dinner executed")
                 txtOutput.setText("Leave a thoughtful message on a loved ones post")
 
             }else if (time.contains("after")&& time.contains("dinner")) {
