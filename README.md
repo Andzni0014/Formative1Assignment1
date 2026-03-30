@@ -29,3 +29,7 @@ night: Leave a 'Good night' message to your loved ones
 
  
 This image above shows the simple appearance of the app before usage. It has input and output space which the user uses to enter the time of day and view the suggestion
+
+Youtube Link:
+https://youtu.be/FJFqYIrxj_c?si=6BFaUHA5-5i7r2AT
+
